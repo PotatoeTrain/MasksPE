@@ -1,5 +1,5 @@
 <?php
-namespace masks;
+namespace maskspe;
 
 
 use pocketmine\item\Item;
